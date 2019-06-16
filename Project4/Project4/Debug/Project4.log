@@ -1,0 +1,5 @@
+﻿  Project4.cpp
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project4\project4\project4.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project4\project4\project4.cpp(56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project4\project4\project4.cpp(440): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project4.vcxproj -> C:\Users\jared\Desktop\School Work\2018-2019 School Work\Programming Foundations I\Project4\Debug\Project4.exe
